@@ -1,2 +1,2 @@
-# advanced-java14
+# advanced java concepts
 # Lambda Expessions, Stream API and Generics 
